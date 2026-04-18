@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "httpstatus": 200,
+    "message": "SUCCESS",
+    "data": {
+        "title": "Dashboard Login",
+        "userdata": {
+            "loginstatus": true,
+            "suuser": 21268,
+            "username": "PRAFULDAS M M",
+            "designation": "User",
+            "sufinancialyear": 18,
+            "acsusection": 0,
+            "acsusectiondetail": 0,
+            "hrenemp": 20093,
+            "hosuconsultant": 0,
+            "photo": "",
+            "deviceid": "0",
+            "locationname": " ",
+            "dbdetailapi": "sidekickget/commonget/dashboard.json"
+        }
+    }
+}

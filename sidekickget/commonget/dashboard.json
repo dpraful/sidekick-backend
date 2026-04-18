@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "httpstatus": 200,
+  "message": "SUCCESS",
+  "data": {
+    "title": "Consultation Patients",
+    "dashboard": [
+      {
+        "keyid": "dbstyle1",
+        "iconname": "ambulance",
+        "dbname": "OP",
+        "dbvalue": 0,
+        "dbvaluepercentage": 0,
+        "iconcolor": "#094485",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": 0
+      },
+      {
+        "keyid": "dbstyle1",
+        "iconname": "bed",
+        "dbname": "IP",
+        "dbvalue": 0,
+        "dbvaluepercentage": 0,
+        "iconcolor": "#ea6767",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": 0
+      },
+      {
+        "keyid": "dbstyle1",
+        "iconname": "notes-medical",
+        "dbname": "TOTAL",
+        "dbvalue": 0,
+        "dbvaluepercentage": 0,
+        "iconcolor": "#000000",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": 0
+      },
+      {
+        "keyid": "dbstyle1",
+        "iconname": "calendar-check",
+        "dbname": "APPOINTMENTS",
+        "dbvalue": 1,
+        "dbvaluepercentage": 0,
+        "iconcolor": "#b11e61",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": 0
+      },
+      {
+        "keyid": "dbstyle1",
+        "iconname": "microscope",
+        "dbname": "RESULTS",
+        "dbvalue": 0,
+        "dbvaluepercentage": 0,
+        "iconcolor": "#04683d",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": 0
+      }
+    ]
+  }
+}
