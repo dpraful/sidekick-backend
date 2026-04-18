@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "httpstatus": 200,
+  "message": "SUCCESS",
+  "data": {
+    "ValidationStatus": true,
+    "OrganizationCode": 3,
+    "APIP": "emr.amalaims.org",
+    "PortNumber": 9393,
+    "ApiVersion": 2.3,
+    "ApiLink": "load/emr/rnemrpreload"
+  }
+}
