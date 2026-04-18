@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "httpstatus": 200,
+  "message": "SUCCESS",
+  "data": {
+    "version": "2025120600",
+    "apkVersion": "0.0.1",
+    "bundleUrl": "http://52.66.16.64:8090/insurance-ota-update/8",
+    "apkUrl": "https://jinfo.live/insurance-file-download/8",
+    "httpstatus": 200,
+    "descriptions": "App updated. Press back and reopen the app."
+  }
+}
