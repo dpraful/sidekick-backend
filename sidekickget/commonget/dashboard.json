@@ -8,28 +8,50 @@
       {
         "keyid": "dbstyle1",
         "dbname": "Ujwel",
-        "iconcolor": "#094485",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
         "image": "assets/images/sidekick_logo.jpg"
       },
       {
         "keyid": "dbstyle1",
         "dbname": "Amal",
-        "iconcolor": "#ea6767",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
         "image": "assets/images/sidekick_logo.jpg"
       },
       {
         "keyid": "dbstyle1",
         "dbname": "Vivek",
-        "iconcolor": "#000000",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
         "image": "assets/images/sidekick_logo.jpg"
       },
       {
         "keyid": "dbstyle1",
         "dbname": "Nimil",
-        "dbvalue": 1,
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": "assets/images/sidekick_logo.jpg"
+      }
+    ],
+    "posts": [
+      {
+        "keyid": 1,
+        "name": "Ujwel",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": "assets/images/sidekick_logo.jpg"
+      },
+      {
+        "keyid": 2,
+        "name": "Amal",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": "assets/images/sidekick_logo.jpg"
+      },
+      {
+        "keyid": 3,
+        "name": "Vivek",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": "assets/images/sidekick_logo.jpg"
+      },
+      {
+        "keyid": 4,
+        "name": "Nimil",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
         "image": "assets/images/sidekick_logo.jpg"
       }
