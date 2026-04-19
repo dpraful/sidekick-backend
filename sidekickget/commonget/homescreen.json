@@ -9,7 +9,7 @@
         "keyid": "dbstyle1",
         "dbname": "Ujwel",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/sidekick_logo.jpg"
+        "image": "assets/images/player.jpg"
       },
       {
         "keyid": "dbstyle1",
@@ -21,13 +21,13 @@
         "keyid": "dbstyle1",
         "dbname": "Vivek",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/sidekick_logo.jpg"
+        "image": "assets/images/login.jpg"
       },
       {
         "keyid": "dbstyle1",
         "dbname": "Nimil",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/sidekick_logo.jpg"
+        "image": "assets/images/image1.jpg"
       }
     ],
     "posts": [
@@ -35,7 +35,7 @@
         "keyid": 1,
         "name": "Ujwel",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/sidekick_logo.jpg"
+        "image": "assets/images/player.jpg"
       },
       {
         "keyid": 2,
@@ -47,13 +47,13 @@
         "keyid": 3,
         "name": "Vivek",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/sidekick_logo.jpg"
+        "image": "assets/images/login.jpg"
       },
       {
         "keyid": 4,
         "name": "Nimil",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/sidekick_logo.jpg"
+        "image": "assets/images/image1.jpg"
       }
     ]
   }
