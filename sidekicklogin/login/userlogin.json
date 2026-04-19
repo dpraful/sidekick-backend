@@ -18,6 +18,79 @@
             "deviceid": "0",
             "locationname": " ",
             "dbdetailapi": "sidekickget/commonget/dashboard.json"
-        }
+        },
+        "screens": [
+            {
+                "keyid": 1,
+                "displaytext": "HOME",
+                "iconname": "home",
+                "iconcolor": "#F16767",
+                "fontcolor": "#F16767",
+                "shadowcolor": "#fce0e0",
+                "iconsize": 22,
+                "selected": true,
+                "visibility": true,
+                "functionid": "D01",
+                "componenttype": "screen",
+                "component": "HomeScreen"
+            },
+            {
+                "keyid": 2,
+                "displaytext": "SHORTS",
+                "iconname": "play-circle",
+                "iconcolor": "#F16767",
+                "fontcolor": "#F16767",
+                "shadowcolor": "#fce0e0",
+                "iconsize": 22,
+                "selected": false,
+                "visibility": true,
+                "functionid": "D02",
+                "componenttype": "screen",
+                "component": "ShortScreen"
+            },
+            {
+                "keyid": 3,
+                "displaytext": "ADD",
+                "iconname": "plus-circle",
+                "iconcolor": "#ffffff",
+                "fontcolor": "#F16767",
+                "shadowcolor": "#F16767",
+                "iconsize": 28,
+                "selected": false,
+                "visibility": true,
+                "functionid": "D03",
+                "componenttype": "action",
+                "component": "AddScreen",
+                "isPrimary": true
+            },
+            {
+                "keyid": 4,
+                "displaytext": "BOOKING",
+                "iconname": "calendar-check",
+                "iconcolor": "#F16767",
+                "fontcolor": "#F16767",
+                "shadowcolor": "#fce0e0",
+                "iconsize": 22,
+                "selected": false,
+                "visibility": true,
+                "functionid": "D04",
+                "componenttype": "screen",
+                "component": "BookScreen"
+            },
+            {
+                "keyid": 5,
+                "displaytext": "ANALYTICS",
+                "iconname": "chart-line",
+                "iconcolor": "#F16767",
+                "fontcolor": "#F16767",
+                "shadowcolor": "#fce0e0",
+                "iconsize": 22,
+                "selected": false,
+                "visibility": true,
+                "functionid": "D05",
+                "componenttype": "screen",
+                "component": "AnalyticsScreen"
+            }
+        ]
     }
 }
