@@ -16,8 +16,7 @@
             "hosuconsultant": 0,
             "photo": "",
             "deviceid": "0",
-            "locationname": " ",
-            "dbdetailapi": "sidekickget/commonget/dashboard.json"
+            "locationname": " "
         },
         "screens": [
             {

@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "httpstatus": 200,
+  "message": "SUCCESS",
+  "data": {
+    "title": "status",
+    "posts": [
+      {
+        "keyid": 1,
+        "name": "Ujwel",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": "assets/images/sidekick_logo.jpg"
+      },
+      {
+        "keyid": 2,
+        "name": "Amal",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": "assets/images/sidekick_logo.jpg"
+      },
+      {
+        "keyid": 3,
+        "name": "Vivek",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": "assets/images/sidekick_logo.jpg"
+      },
+      {
+        "keyid": 4,
+        "name": "Nimil",
+        "dbdetailapi": "sidekickget/commonget/dashboard.json",
+        "image": "assets/images/sidekick_logo.jpg"
+      }
+    ]
+  }
+}
