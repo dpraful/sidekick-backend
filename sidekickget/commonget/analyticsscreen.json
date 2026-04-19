@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "httpstatus": 200,
+  "message": "SUCCESS",
+  "data": {
+    "summary": {
+      "totalSlots": 72,
+      "bookedSlots": 8,
+      "availableSlots": 64,
+      "revenue": 3200
+    },
+    "courtStats": [
+      { "court": "Badminton-1", "booked": 2 },
+      { "court": "Badminton-2", "booked": 3 },
+      { "court": "Badminton-3", "booked": 1 },
+      { "court": "PickleBall", "booked": 2 }
+    ],
+    "peakHours": [
+      { "time": "7-8 PM", "booked": 3 },
+      { "time": "8-9 PM", "booked": 2 },
+      { "time": "9-10 PM", "booked": 2 }
+    ]
+  }
+}
