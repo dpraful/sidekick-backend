@@ -21,7 +21,7 @@
         "keyid": "dbstyle1",
         "dbname": "Vivek",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/login.jpeg"
+        "image": "assets/images/player1.jpg"
       },
       {
         "keyid": "dbstyle1",
@@ -47,7 +47,7 @@
         "keyid": 3,
         "name": "Vivek",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/login.jpeg"
+        "image": "assets/images/player1.jpg"
       },
       {
         "keyid": 4,
