@@ -9,25 +9,25 @@
         "keyid": 1,
         "name": "Ujwel",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/sidekick_logo.jpg"
+        "image": "assets/videos/short1.mp4"
       },
       {
         "keyid": 2,
         "name": "Amal",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/sidekick_logo.jpg"
+        "image": "assets/videos/short1.mp4"
       },
       {
         "keyid": 3,
         "name": "Vivek",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/sidekick_logo.jpg"
+        "image": "assets/videos/short1.mp4"
       },
       {
         "keyid": 4,
         "name": "Nimil",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": "assets/images/sidekick_logo.jpg"
+        "image": "assets/videos/short1.mp4"
       }
     ]
   }
