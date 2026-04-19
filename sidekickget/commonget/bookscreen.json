@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "httpstatus": 200,
+  "message": "SUCCESS",
+  "data": {
+    "courts": ["Badminton-1", "Badminton-2", "Badminton-3", "PickleBall"],
+    "slots": [
+      {
+        "time": "5-6 AM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "6-7 AM",
+        "data": ["available", "available", "booked", "available"]
+      },
+      {
+        "time": "7-8 AM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "8-9 AM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "9-10 AM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "10-11 AM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "11-12 PM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "12-1 PM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "1-2 PM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "2-3 PM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "3-4 PM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "4-5 PM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "5-6 PM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "6-7 PM",
+        "data": ["available", "available", "available", "available"]
+      },
+      {
+        "time": "7-8 PM",
+        "data": ["booked", "available", "available", "available"]
+      },
+      {
+        "time": "8-9 PM",
+        "data": ["available", "booked", "available", "available"]
+      },
+      {
+        "time": "9-10 PM",
+        "data": ["available", "booked", "available", "available"]
+      },
+      {
+        "time": "10-11 PM",
+        "data": ["available", "available", "available", "available"]
+      }
+    ]
+  }
+}
