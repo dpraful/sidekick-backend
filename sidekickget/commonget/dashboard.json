@@ -3,7 +3,7 @@
   "httpstatus": 200,
   "message": "SUCCESS",
   "data": {
-    "title": "Consultation Patients",
+    "title": "status",
     "dashboard": [
       {
         "keyid": "dbstyle1",
@@ -42,16 +42,6 @@
         "dbvalue": 1,
         "dbvaluepercentage": 0,
         "iconcolor": "#b11e61",
-        "dbdetailapi": "sidekickget/commonget/dashboard.json",
-        "image": 0
-      },
-      {
-        "keyid": "dbstyle1",
-        "iconname": "microscope",
-        "dbname": "RESULTS",
-        "dbvalue": 0,
-        "dbvaluepercentage": 0,
-        "iconcolor": "#04683d",
         "dbdetailapi": "sidekickget/commonget/dashboard.json",
         "image": 0
       }
